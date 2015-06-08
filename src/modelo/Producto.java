@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author gollo011
+ * lll@author gollo011
  */
 public class Producto {
     
